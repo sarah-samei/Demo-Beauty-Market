@@ -1,0 +1,8 @@
+.header-img{
+ background-image:url("file:///C:/Users/Sarah/Documents/GitHub/Demo-Beauty-Market/assets/images/header.png");
+ height:500px;
+ background-size: 100% 100%;
+ /*background-size: cover;*/
+ border: 5px solid black;
+ background-repeat: no-repeat;
+}
