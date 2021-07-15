@@ -22,13 +22,13 @@ body {
 
 h1 {
 	text-align: center;
-	color:#ff3385;
+	color: #ff3385;
 	font-size: 50px;
 }
 
 .user-icon {
-	font-size:30px;
-	color:white;
+	font-size: 30px;
+	color: white;
 	cursor: pointer;
 }
 
@@ -61,8 +61,8 @@ li a:hover {
 }
 
 .header-img {
-	background-image:url("assets/images/header.png");
-	height:500px;
+	background-image: url("assets/images/header.png");
+	height: 500px;
 	background-size: 100% 100%;
 	/*background-size: cover;*/
 	border: 5px solid black;
