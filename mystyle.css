@@ -2,6 +2,16 @@ body {
     margin: 0 ;
 }
 
+#top-navbar {
+    background-color: black;
+    height: 55px;
+    margin-top: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
 #navbar {
     background-color: black;
 }
