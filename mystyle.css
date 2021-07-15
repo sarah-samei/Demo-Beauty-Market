@@ -10,6 +10,14 @@ body {
 
 h1 {
     text-align: center;
+    color:#ff3385;
+    font-size: 50px;
+}
+
+#user-icon {
+    font-size:48px;
+    color:#ff3385;
+
 }
 
 #navbar {
@@ -41,10 +49,10 @@ li a:hover {
 }
 
 .header-img {
- background-image:url("assets/images/header.png");
- height:500px;
- background-size: 100% 100%;
- /*background-size: cover;*/
- border: 5px solid black;
- background-repeat: no-repeat;
+    background-image:url("assets/images/header.png");
+    height:500px;
+    background-size: 100% 100%;
+    /*background-size: cover;*/
+    border: 5px solid black;
+    background-repeat: no-repeat;
 }
