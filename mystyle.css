@@ -1,4 +1,36 @@
-.header-img{
+body {
+    margin: 0 ;
+}
+
+#navbar {
+    background-color: black;
+}
+
+#nav li {
+    display: inline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    height: 30px;
+    padding: 10px;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    padding: 20px 40px;
+}
+
+li a:hover {
+    color: #ff3385;
+}
+
+.header-img {
  background-image:url("assets/images/header.png");
  height:500px;
  background-size: 100% 100%;
