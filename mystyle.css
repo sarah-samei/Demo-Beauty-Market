@@ -14,23 +14,34 @@ body {
 	margin: 0 ;
 }
 
-#top-navbar {
+.nav-link {
+	display: unset;
+}
+
+.black-theme {
 	background-color: black;
-	height: 55px;
-	margin-top: 0;
+	height: 35px;
+}
+
+.mx-auto {
+	margin-top: 5px;
 }
 
 h1 {
 	text-align: center;
 	color: white;
-	font-size: 50px;
 	font-family: 'Dancing Script', cursive;
 }
 
+.navbar-brand {
+	font-size: 50px;
+}
+
 .user-icon {
-	font-size: 30px;
+	font-size: 20px;
 	color: white;
 	cursor: pointer;
+	margin: 20px;
 }
 
 #navbar {
