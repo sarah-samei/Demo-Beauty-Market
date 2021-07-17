@@ -179,20 +179,21 @@ svg {
 
 #footer-svg {
 	margin-bottom: -160px;
-	/*border: 1px solid blue;*/
 	height: 200px;
 }
 
 #footer-image {
 	width: 70%;
 	margin-right: 700px;
-	border: 1px solid yellow;
 }
 
 #copyright {
-	border: 1px solid red;
 	width: 420px;
 	height: 30px;
 	margin-top: 200px;
 	font-size: 12px;
+}
+
+#contact {
+	width: 420px;
 }
