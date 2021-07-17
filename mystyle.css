@@ -149,6 +149,7 @@ li a:hover {
 
 .main:hover .product-image {
 		opacity: 0.3;
+		box-shadow: 0 0 10px 10px black;
 }
 
 .main:hover .product-name {
