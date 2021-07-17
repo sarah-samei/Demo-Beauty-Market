@@ -159,14 +159,14 @@ li a:hover {
 .text {
 		background-color: black;
 		color: white;
-		font-size: 15px;
+		font-size: 13px;
 		padding: 16px 32px;
 		border-radius: 10px;
-		width: 70px;
+		width: 80px;
 		text-align: center;
 }
 
-footer{
+footer {
 	text-align: center;
 	background-color: black;
 	color: white;
