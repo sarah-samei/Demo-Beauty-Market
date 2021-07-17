@@ -168,27 +168,22 @@ li a:hover {
 
 footer{
 	text-align: center;
-	padding: 20px;
 	background-color: black;
 	color: white;
 	margin-top: 100px;
 }
 
-/*#gerd {
-	background-color: ;
-	width: 200px;
-	height: 200px;
-	border-radius: 100px;
-	margin-top: -140px;
-}*/
-
 svg {
 	transform: rotateX(150deg);
-	/*border: 1px solid red;*/
 }
 
-#test-svg {
+#footer-svg {
 	margin-bottom: -160px;
 	/*border: 1px solid blue;*/
 	height: 200px;
+}
+
+#footer-image {
+	width: 40%;
+	margin-right: 700px;"
 }
