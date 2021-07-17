@@ -48,13 +48,13 @@ body {
 }
 
 .mx-auto {
-	margin-top: 5px;
+	margin-top: 10px;
 }
 
 h1 {
 	text-align: center;
 	color: white;
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Sacramento', cursive;
 }
 
 .navbar-brand {
