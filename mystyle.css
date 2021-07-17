@@ -187,8 +187,20 @@ svg {
 	margin-right: 700px;
 }
 
+#logo {
+	height: 30px;
+	margin-top: 50px;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	font-family: 'Sacramento', cursive;
+}
+
 #contact {
-	width: 420px;
+	height: 100px;
+	margin-top: 90px;
 }
 
 .footer-hr {
@@ -196,8 +208,7 @@ svg {
 }
 
 #copyright {
-	width: 420px;
 	height: 30px;
-	margin-top: 200px;
+	margin-top: 40px;
 	font-size: 12px;
 }
