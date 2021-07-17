@@ -165,3 +165,30 @@ li a:hover {
 		width: 70px;
 		text-align: center;
 }
+
+footer{
+	text-align: center;
+	padding: 20px;
+	background-color: black;
+	color: white;
+	margin-top: 100px;
+}
+
+/*#gerd {
+	background-color: ;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	margin-top: -140px;
+}*/
+
+svg {
+	transform: rotateX(150deg);
+	/*border: 1px solid red;*/
+}
+
+#test-svg {
+	margin-bottom: -160px;
+	/*border: 1px solid blue;*/
+	height: 200px;
+}
