@@ -187,13 +187,17 @@ svg {
 	margin-right: 700px;
 }
 
+#contact {
+	width: 420px;
+}
+
+.footer-hr {
+	color: lightgray;
+}
+
 #copyright {
 	width: 420px;
 	height: 30px;
 	margin-top: 200px;
 	font-size: 12px;
-}
-
-#contact {
-	width: 420px;
 }
