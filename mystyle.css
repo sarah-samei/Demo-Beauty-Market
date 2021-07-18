@@ -189,7 +189,7 @@ svg {
 
 #logo {
 	height: 30px;
-	margin-top: 50px;
+	margin-top: 20px;
 }
 
 h2 {
@@ -211,4 +211,35 @@ h2 {
 	height: 30px;
 	margin-top: 40px;
 	font-size: 12px;
+}
+
+#social-media {
+	font-size: 20px;
+	color: white;
+	cursor: pointer;
+	
+}
+
+.social-media-icon{
+	padding: 5px;
+}
+
+#instagram-icon:hover {
+	color: #ff33cc;
+}
+
+#telegram-icon:hover {
+	color: #4db8ff;
+}
+
+#whatsapp-icon:hover {
+	color: #00ff00;
+}
+
+#youtube-icon:hover {
+	color: #ff0000;
+}
+
+#twittere-icon:hover {
+	color: #4d4dff;
 }
