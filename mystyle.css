@@ -194,7 +194,6 @@ footer {
 	text-align: center;
 	background-color: black;
 	color: white;
-	margin-top: 100px;
 }
 
 svg {
@@ -202,8 +201,7 @@ svg {
 }
 
 #footer-svg {
-	margin-bottom: -160px;
-	height: 200px;
+	margin-bottom: -12px;
 }
 
 #footer-image {
@@ -223,24 +221,24 @@ h2 {
 
 #contact {
 	height: 100px;
-	margin-top: 90px;
+	margin-top: 70px;
 }
 
 .footer-hr {
 	color: lightgray;
+	margin-top: 30px;
 }
 
 #copyright {
 	height: 30px;
-	margin-top: 40px;
-	font-size: 12px;
+	margin-bottom: 30px;
+	font-size: 11px;
 }
 
 #social-media {
 	font-size: 20px;
 	color: white;
 	cursor: pointer;
-	
 }
 
 .social-media-icon{
