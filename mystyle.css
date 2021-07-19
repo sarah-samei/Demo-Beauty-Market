@@ -109,7 +109,6 @@ li a:hover {
 		content: "";
 		clear: both;
 		display: table;
-
 }
 
 @media screen and (max-width: 500px) {
@@ -118,13 +117,37 @@ li a:hover {
 		}
 }
 
+#lipsum {
+	background-color: #dabeaa78;
+	color: black;
+	margin: 50px;
+	padding: 20px;
+	border-radius: 8px;
+	width: 70%;
+	margin-inline: auto;
+
+}
+
+h3 {
+	margin:0;
+	text-align: center;
+	font-size: 30px
+}
+
+#lorem-ipsum {
+	margin:0;
+	direction: ltr;
+	font-size: 20px;
+	font-family: cursive;
+}
+
 .main {
 		position: relative;
 		float: left;
 		height: 200px;
 		width: 200px;
-		margin: 50px;
-		margin-left: 100px;
+		margin: 30px;
+		margin-left: 60px;
 }
 
 .product-image {
@@ -132,9 +155,10 @@ li a:hover {
 		display: block;
 		width: 100%;
 		height: 100%;
-		transition:.5s ease ;
+		transition: .5s ease ;
 		backface-visibility: hidden;
 		border-radius: 10px;
+		margin-inline: inherit;
 }
 
 .product-name {
@@ -143,7 +167,7 @@ li a:hover {
 		position: absolute;
 		top: 50%;
 		left: 50%;
-		transform: translate(-50%, -50%);
+		transform: translate(-7%, -50%);
 		-ms-transform: translate(-50%, -50%)
 }
 
